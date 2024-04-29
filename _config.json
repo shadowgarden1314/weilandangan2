@@ -1,0 +1,85 @@
+{
+  "title": "蔚蓝之梦",
+  "description": "有关小鱼的《蔚蓝档案》风格的个人主页",
+  "favicon": "/favicon144.png",
+  "author": "蔚蓝之梦",
+  "keywords": "蔚蓝档案,小鱼yuzifu,个人主页",
+  "ICP": "",
+  "manifest": {
+    "name": "蔚蓝之梦",
+    "short_name": "蔚蓝之梦",
+    "description": "有关小鱼的《蔚蓝档案》风格的个人主页",
+    "theme_color": "#128AFA",
+    "start_url": "/",
+    "id": "Homepage",
+    "icons": [
+      {
+        "src": "/favicon512.png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/favicon144.png",
+        "sizes": "144x144"
+      }
+    ]
+  },
+  "level": 87,
+  "exp": 7217,
+  "nextExp": 7216,
+  "iconfont": "https://at.alicdn.com/t/c/font_4336463_0i6ly0yvyzb.js",
+  "dock": [
+    {
+      "name": "韩立主页",
+      "href": "https://hanli.pages.dev/",
+      "imgSrc": "/img/fish.jpg"
+    },
+    {
+      "name": "音乐",
+      "href": "https://heomusic2.pages.dev/",
+      "imgSrc": "/img/music.jpg"
+    },
+    {
+      "name": "图库",
+      "href": "https://images.asuna.onflashdrive.app/",
+      "imgSrc": "/img/tuku.jpg"
+    },
+    {
+      "name": "自制图片接口",
+      "href": "https://images.krito.onflashdrive.app/",
+      "imgSrc": "/img/convertor.png"
+    },
+    {
+      "name": "国内谷歌",
+      "href": "https://google.hellowold.dynv6.net/",
+      "imgSrc": "/img/waddle2.jpg"
+    },
+    {
+      "name": "Gemini pro",
+      "href": "https://gemini.hellowold.dynv6.net/",
+      "imgSrc": "/img/pickduck.jpg"
+    },
+    {
+      "name": "爱心",
+      "href": "https://love.hellowold.dynv6.net/",
+      "imgSrc": "/img/boxy.jpg"
+    }
+  ],
+  "contact": [
+    
+    {
+      "name": "Github",
+      "href": "https://github.com/shadowgarden1314",
+      "iconfont": "icon-github"
+    },
+    {
+      "name": "BiliBili",
+      "href": "https://space.bilibili.com/2136559863",
+      "iconfont": "icon-bilibili"
+    }
+  ],
+  "task": {
+    "name": "个人博客",
+    "href": "https://firefly.hellowold.dynv6.net/"
+  }
+}
