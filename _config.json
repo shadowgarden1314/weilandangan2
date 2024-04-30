@@ -41,17 +41,17 @@
     },
     {
       "name": "图库",
-      "href": "https://images.asuna.onflashdrive.app/",
+      "href": "https://telegraph-image-8nb.pages.dev/",
       "imgSrc": "/img/tuku.jpg"
     },
     {
       "name": "自制图片接口",
-      "href": "https://images.krito.onflashdrive.app/",
+      "href": "https://t.mwm.moe/ycy",
       "imgSrc": "/img/convertor.png"
     },
     {
-      "name": "国内谷歌",
-      "href": "https://google.hellowold.dynv6.net/",
+      "name": "英语单词练习",
+      "href": "https://english.hellowold.dynv6.net/",
       "imgSrc": "/img/waddle2.jpg"
     },
     {
@@ -80,6 +80,6 @@
   ],
   "task": {
     "name": "个人博客",
-    "href": "https://firefly.hellowold.dynv6.net/"
+    "href": "https://firefly-blog-0uk.pages.dev/"
   }
 }
